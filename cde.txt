@@ -1,2 +1,2 @@
 cde file
-chan
+chan chan
